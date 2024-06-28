@@ -26,7 +26,7 @@ WIFI_SSID = "Your_WiFi_SSID"
 WIFI_PASS = "Your_WiFi_Password"
 
 # Ubidots configuration
-TOKEN = "BBUS-MIjODvzAKxxuZHCzIZVjq7IBsAmUZn"
+TOKEN = "HEMLIGT"
 DEVICE_LABEL = "picoW"
 
 TEMP_VARIABLE_LABEL = "temperature"
